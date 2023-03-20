@@ -1,0 +1,22 @@
+﻿[
+    {
+      "Numero": 1,
+      "Nome": "Bulbasaur",
+      "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+      "Especie": "Seed",
+      "Tipo": [ "Planta", "Venenoso" ] ,
+      "Altura": 0.7,
+      "Peso": 6.9,
+      "Imagem": "\\img\\TwilightSparkle.png"
+    },
+    {
+      "Numero": 2,
+      "Nome": "Ivysaur",
+      "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
+      "Especie": "Seed",
+      "Tipo": [ "Planta", "Venenoso" ],
+      "Altura": 1,
+      "Peso": 13,
+      "Imagem": "\\img\\Pinkie.png"
+    }
+]
