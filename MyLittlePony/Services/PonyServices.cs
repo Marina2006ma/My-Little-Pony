@@ -17,16 +17,14 @@ public class PonyService : IPonyService
     public List<Pony> GetPonys()
     {
         PopularSessao();
-        var ponys = JsonSerializer.Deserialize<List<Pony>>
-        (_session.HttpContext.Session.GetString("Ponys"));
+        var ponys = JsonSerializer.Deserialize<List<Pony>>(_session.HttpContext.Session.GetString("Ponys"));
         return ponys;
     }
 
     public List<Tipo> GetTipos()
     {
         PopularSessao();
-        var tipos = JsonSerializer.Deserialize<List<Tipo>>
-        (_session.HttpContext.Session.GetString("Tipos"));
+        var tipos = JsonSerializer.Deserialize<List<Tipo>>(_session.HttpContext.Session.GetString("Tipos"));
         return tipos;
     }
 

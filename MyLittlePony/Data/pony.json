@@ -1,22 +1,20 @@
 ﻿[
     {
       "Numero": 1,
-      "Nome": "Bulbasaur",
-      "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-      "Especie": "Seed",
-      "Tipo": [ "Planta", "Venenoso" ] ,
-      "Altura": 0.7,
-      "Peso": 6.9,
+      "Nome": "Twilight Sparkle",
+      "Descricao": "Twilight Sparkle é a primeira personagem principal de My Little Pony: A Amizade é Mágica. Ela era uma Pônei unicórnio fêmea que se transforma em uma Alicórnio e se torna uma princesa em A Cura do Mistério Mágico.",
+      "Residencia": "Ponyville",
+      "Tipo": [ "Alicórnio"] ,
+      "Ocupacao": "Ser aluna da Princesa Celestia Governar Equestria Cuidar da Biblioteca de Ponyville Proteger Equestria com o seu Elemento da Harmonia Diretora da Escola da Amizade",
       "Imagem": "\\img\\1.png"
     },
     {
       "Numero": 2,
-      "Nome": "Ivysaur",
-      "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
-      "Especie": "Seed",
-      "Tipo": [ "Planta", "Venenoso" ],
-      "Altura": 1,
-      "Peso": 13,
+      "Nome": "Fluttershy",
+      "Descricao": "Fluttershy é uma Pônei Pégaso fêmea e uma das principais personagens da série animada My Little Pony: A Amizade é Mágica",
+      "Residencia": "Ponyville",
+      "Tipo": [ "Pégasos" ],
+      "Ocupacao": "Cuidar dos animais Proteger Equestria com o seu Elemento da Harmonia Professora da Bondade da Escola da Amizade",
       "Imagem": "\\img\\2.png"
     }
 ]
